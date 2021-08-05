@@ -17,4 +17,4 @@ do
 done
 # Start the icap service	
 echo "INFO: Starting up C-ICAP service"
-/opt/c-icap/bin/c-icap -D -d 5
+/opt/c-icap/bin/c-icap -N -D -d 5
